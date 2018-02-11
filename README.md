@@ -10,7 +10,7 @@ Data Science Portafolio.
 
 
 <p align="center">
-  <a href="#overview">Overview</a> •
+  • <a href="#overview">Overview</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#description">Description</a> •
   <a href="#credits">Credits</a> •
@@ -21,10 +21,19 @@ Data Science Portafolio.
 Overview
 ======================
 
+### Classification problems
+
+* Titanic surival
+
 
 How to use
 ======================
 
+* Run
+
+```bash
+$ docker-compose up
+```
 
 Description
 ======================
