@@ -1,12 +1,12 @@
 <a href="https://github.com/gmartinezramirez/data-science-portafolio">
-    <img src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/logo.png" alt="logo" title="logo" align="right" height="160" />
+    <img src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/docs/logo.png" alt="logo" title="logo" align="right" height="160" />
 </a>
 
 Data Science Portafolio
 ======================
 Data Science Portafolio. 
 
-<p align="center"><img width=95% src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/Schematic.png"></p>
+<p align="center"><img width=95% src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/docs/Schematic.png"></p>
 
 
 <p align="center">
