@@ -48,14 +48,16 @@ How to use
 $ docker-compose up
 ```
 
+* Go to the notebook folder and throught jupyter access to the notebook (.ipynb).
 Description
 ======================
+TBD
 
 
 Credits
 ======================
-
+Gonzalo Javier Martinez Ramirez
 
 Licence
 ======================
-
+Apache 2.0
