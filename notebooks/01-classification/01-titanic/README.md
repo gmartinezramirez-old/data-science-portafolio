@@ -1,5 +1,11 @@
 # Titanic's passenger prediction survivors rate
 
+<p align="center"><img width=50% src="https://github.com/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/docs/titanic-logo.jpg"></p>
+
+* [Jupyter Notebook](https://github.com/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/titanic-passengers.ipynb)
+* [nbviewer](http://nbviewer.jupyter.org/github/gmartinezramirez/data-science-portafolio/blob/master/notebooks/01-classification/01-titanic/titanic-passengers.ipynb)
+
+
 ## Description
 
 * The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
@@ -14,7 +20,7 @@
 ## Practice Skills
 
 * Binary classification.
-* Python and R basics.
+* Python basics.
 
 
 ## Goal
@@ -44,3 +50,7 @@ PassengerId,Survived
 ## Output file
 
 * The output file is in output/titanic.csv
+
+## Results
+
+* The best result I got was 0.80861. Reachable maximum accuracy is ~82-85%.
